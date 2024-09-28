@@ -75,18 +75,31 @@ The project follows a typical React file structure:
 
 money-tracker-app/
 │
-├── public/                                                                
+
+├── public/   
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── ExpenseInputForm.js     // Component for inputting new expenses
+
 │   │   ├── ExpenseList.js          // Component that renders the list of expenses
+
 │   │   └── TotalAmount.js          // Component displaying the total amount
+
 │   ├── App.js                      // Main application component
+
 │   └── index.js                    // Entry point for React
+
 │
+
 ├── .gitignore
+
 ├── package.json
+
 └── README.md
+
 
 ## 📝 Future Enhancements
 
