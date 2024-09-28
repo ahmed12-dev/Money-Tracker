@@ -75,7 +75,7 @@ The project follows a typical React file structure:
 
 money-tracker-app/
 │
-├── public/
+├── public/                                                                
 ├── src/
 │   ├── components/
 │   │   ├── ExpenseInputForm.js     // Component for inputting new expenses
