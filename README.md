@@ -82,15 +82,15 @@ money-tracker-app/
 
 │   ├── components/
 
-│   │   ├── ExpenseInputForm.js     // Component for inputting new expenses
+│   │   ├── ExpenseInputForm.js              // Component for inputting new expenses
 
-│   │   ├── ExpenseList.js          // Component that renders the list of expenses
+│   │   ├── ExpenseList.js                 // Component that renders the list of expenses
 
-│   │   └── TotalAmount.js          // Component displaying the total amount
+│   │   └── TotalAmount.js                // Component displaying the total amount
 
-│   ├── App.js                      // Main application component
+│   ├── App.js                           // Main application component
 
-│   └── index.js                    // Entry point for React
+│   └── index.js                        // Entry point for React
 
 │
 
