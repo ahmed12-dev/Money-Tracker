@@ -42,9 +42,11 @@ Follow these simple steps to set up the project locally:
 
 
 
-### Code Splitting
+### 1) Clone the repository:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ [git clone https://github.com/yourusername/money-tracker-app.git
+](git clone https://github.com/yourusername/money-tracker-app.git
+)
 
 ### Analyzing the Bundle Size
 
